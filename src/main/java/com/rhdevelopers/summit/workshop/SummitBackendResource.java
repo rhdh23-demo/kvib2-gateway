@@ -79,7 +79,7 @@ public class SummitBackendResource {
             UriBuilder.fromPath("fake/poi/find/"+(SUMMIT_POI_RECORDS.size()-1)).build()
         ).entity("inserted custom data point").build();
     }
-    */
+
 
     //How to use it:
     //The coordinates number array in the JSON snippet is specified [lat,lng] -> so latitude first, then longitude.
