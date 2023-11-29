@@ -94,7 +94,7 @@ public class SummitBackendResource {
     "description":"example city",
     "coordinates":[45.464203,9.189982]
     }'
-
+    */
     
 
 }
